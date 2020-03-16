@@ -1,7 +1,7 @@
 # Set up hub wrapper for git, if it is available; https://github.com/github/hub
-if (( $+commands[hub] )); then
-  alias git=hub
-fi
+# if (( $+commands[hub] )); then
+  # alias git=hub
+# fi
 
 # Functions #################################################################
 
